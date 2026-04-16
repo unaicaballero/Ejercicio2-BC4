@@ -1,0 +1,1 @@
+Aqui me pide crear una tabla empleado que en este caso la llamo tabla ejemploconexion donde con un String sql introduzco la consulta con la que creo la tabla con valores de id, nombre y salario respectivamente.
